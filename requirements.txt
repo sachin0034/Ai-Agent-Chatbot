@@ -1,8 +1,8 @@
-streamlit
-openai
-python-dotenv
-spacy
-sentence-transformers
-scikit-learn
-numpy
-shelve3
+streamlit==1.22.0
+openai==0.27.1
+python-dotenv==1.0.0
+spacy==3.5.0
+sentence-transformers==2.2.2
+scikit-learn==1.3.0
+numpy==1.24.0
+shelve3==1.0.0

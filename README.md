@@ -86,9 +86,6 @@ This project features a chatbot that takes user prompts and automatically detect
 
 4. **Create a Pull Request** on GitHub.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
